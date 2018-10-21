@@ -1,2 +1,3 @@
 code practice
-git tracks changes of files. 
+git tracks changes of files.
+learn and play

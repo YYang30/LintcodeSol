@@ -1,3 +1,3 @@
 code practice
 git tracks changes of files.
-learn and play
+add a readme file. 
